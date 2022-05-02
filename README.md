@@ -23,16 +23,12 @@
 <img alt="side_sticker" src="https://media.giphy.com/media/XG1rjrn8FdYUaxY7lh/giphy.gif" align="right" />
 
 * I'm mostly a self-learner 💻.
-<br />
 
 * I love movies and I'm on my way to become a movie nerd 📽️.
-<br />
 
 * I'm really into 3D art and I post some of my works on Instagram [@Brusch_Design](https://www.instagram.com/brusch_design/) 🎨.
-<br />
 
 * I used to play the guitar when I was little and even though it's been years since I last played it, I've "tasted" a bit of music production using FL Studio during the past few years 🎶.  
 Yeah... music is pretty much a must for me 🎵.<br />
 
 * Shallow water is not for me, that's why I like to dive deep into the things I manage to get my hands on. And this applies to everything. I'm an insatiable curious 🤓.
-<br />
