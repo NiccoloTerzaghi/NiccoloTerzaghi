@@ -10,7 +10,7 @@
 <br />
 
 <p align="center">
-  Somehow you landed here, in the land of a rather peculiar italian guy who's still deciding between <b>"Computer Science"</b> and <b>"Computer Science and Engineering"</b>.
+  Somehow you landed here, in the land of a rather peculiar (and short) italian guy.
   <br />
   Hence, you won't find neither a professional nor a native english speaker, just a <b><i>passionate coder </i></b>🥴.
 </p>
