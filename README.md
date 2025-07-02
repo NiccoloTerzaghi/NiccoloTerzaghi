@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> Ciao! Welcome to Niccolò Terzaghi's space!</h1>
+  <h1> Ciao!</h1>
 </div>
 
 <div align="center">
@@ -10,9 +10,7 @@
 <br />
 
 <p align="center">
-  Somehow you landed here, in the land of a rather peculiar (and short) italian guy.
-  <br />
-  Hence, you won't find neither a professional nor a native english speaker, just a <b><i>passionate coder </i></b>🥴.
+  You won't find neither a professional nor a native english speaker, just a <b><i>passionate coder </i></b>🥴.
 </p>
 
 <br />
@@ -21,14 +19,3 @@
 ## About me
 
 <img alt="side_sticker" src="https://media.giphy.com/media/XG1rjrn8FdYUaxY7lh/giphy.gif" align="right" />
-
-* I'm mostly a self-learner 💻.
-
-* I love movies and I'm on my way to becoming a movie nerd 📽️.
-
-* I'm really into 3D art and I post some of my works on Instagram [@Brusch_Design](https://www.instagram.com/brusch_design/) 🎨.
-
-* I used to play the guitar when I was little and even though it's been years since I last played it, I've dabbled in music production using FL Studio in the past few years 🎶.  
-Yeah... music is pretty much a must for me 🎵.<br />
-
-* Shallow water is not for me, that's why I like to dive deep into the things I manage to get my hands on. And this applies to everything. I'm insatiably curious 🤓.
